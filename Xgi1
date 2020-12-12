@@ -1,0 +1,22 @@
+TheVoices.InMyHead(“tell me I’m crazy”) {
+
+  for (“I have grandiose plans”) {
+
+    I.think = “they are crazy”;
+    
+    and.should(“get out of my head”);
+    
+}
+
+They(“tell me I’m crazy for saying they are there”) {
+
+    I.think = “they are all crazy”;
+    
+    and.TheyAllshould(“get out of my head”);
+}
+
+They(“tell me I am them”) {
+
+    Then = “no one else thinks your crazy for having grandiose plans”;
+    
+}
